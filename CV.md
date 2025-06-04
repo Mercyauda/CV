@@ -1,12 +1,39 @@
+MERCY AUDA
 
-👋Hi, I’m Mercy Auda
+📍 Kano State, Nigeria
 
-👀I’m interested in learning how to extract meaning from data and eager to build a career in tech
+📞 09036583084 | 📧 mercyauda@gmail.com
 
-🌱I’m currently learning about data analysis at Tugeddah with the goal of becoming a data professional
+🔗 GitHub: github.com/mercyauda
 
-💞I’m looking to collaborate on data related projects
+Professional Summary
 
-📫How to reach me +2349036583084
+Motivated and detail-oriented aspiring Data Analyst with hands-on training in data analytics at Tugeddah. Eager to contribute analytical skills and grow within a data-driven organization.
 
-⚡️Fun fact: I pay strong attention to details and good time management and task prioritization
+💼
+Skills to learn
+
+Data Analysis Tools: Microsoft Excel, Google Sheets, Power BI (or Tableau), SQL
+Programming: Python (Pandas, NumPy, Matplotlib, Seaborn)
+Databases: MySQL, PostgreSQL
+Soft Skills: Problem-solving, Communication, Attention to Detail, Teamwork
+Other skills to learn: Data Cleaning, Data Visualization, Exploratory Data Analysis (EDA)
+
+📚 
+Education & Training
+Tugeddah Data Analytics Program
+
+Certificate in Data Analysis — Ongoing / 2025 (Expected)
+
+Courses: Excel for Data Analysis, SQL Basics, Python for Data Science, Data Visualization
+
+Projects: Sales Dashboard in Excel, Customer Segmentation using Python
+
+Languages
+English – Fluent
+Hausa – Native
+
+💬
+Interests
+
+Data storytelling, Technology for social good, Business intelligence, Community development
